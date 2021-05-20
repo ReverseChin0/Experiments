@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT_NormalColored
+  m_Shader: {fileID: -6465566751694194690, guid: 985059a10558ef34da35433a4192003f,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_B0D8081C: 1
+    - Vector1_F1003A: -7.54
+    - Vector1_F55E6EDF: 0.45
+    - _Height: 4.5
+    - _Offset: 0.5
+    - _disolveamnt: 0.67
+    m_Colors:
+    - Color_2A53FEF3: {r: 3.9215686, g: 3.2941177, b: 1.1607844, a: 0}
+    - Color_83502BC4: {r: 1, g: 0.8801887, b: 0.759434, a: 0}
+    - Color_B5F0EFA4: {r: 1, g: 0.41960788, b: 0.47058827, a: 0}
+    - Color_D96EAA7: {r: 1, g: 0.4198113, b: 0.4710045, a: 0}
+    - Color_ECA7F693: {r: 0.30188674, g: 0.10110357, b: 0.10110357, a: 0}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VolumetricShader
+  m_Shader: {fileID: -6465566751694194690, guid: 3de19b326d4bac64a8517087bc25e2bc,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - noiseTex:
+        m_Texture: {fileID: 2800000, guid: 5a90a2837fd47514bb7f524053d70f2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_5801CC7C: 1
+    - Vector1_BB5E7B52: 1
+    - _Opacity: 1.87
+    - _distanceFade: 4.59
+    m_Colors:
+    - Color_B203D28C: {r: 1, g: 0.9743688, b: 0.8443396, a: 0}
