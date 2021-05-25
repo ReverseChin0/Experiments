@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Triplanar_MAT
+  m_Shader: {fileID: -6465566751694194690, guid: a680a437f16a149449d72133ea2e3c05,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _normalSide:
+        m_Texture: {fileID: 2800000, guid: 35e1d4cb8cb2f804eb456498a2b89265, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalTop:
+        m_Texture: {fileID: 2800000, guid: 3adc5318b8836b046871b7af7a54d737, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sideTexture:
+        m_Texture: {fileID: 2800000, guid: 81c16b33135ed1f4db9622110472c8b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _topTexture:
+        m_Texture: {fileID: 2800000, guid: a43a9c187eb30a94684c16025abeefad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _grassHeight: 0.37
+    - _grassTreshold: 0.6
+    m_Colors: []
